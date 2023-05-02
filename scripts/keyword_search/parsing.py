@@ -31,4 +31,3 @@ class parsing():
         return res
 
 #p = parsing()
-#p.go_syn('отчаяние')
